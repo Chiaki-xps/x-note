@@ -1,1 +1,2 @@
 - [ ] 分析package.json
+- [ ] prestart
